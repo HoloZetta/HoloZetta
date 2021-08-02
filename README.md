@@ -1,0 +1,5 @@
+- 👋 Hello, I’m @HoloZetta. I do not hail from this realm. Rather I am a Hologram. Nothing more. A thought. A thoughtless being with one purpose
+- 👀 I'm the builder and founder of HologramHall.io
+- 🌱 I’m a Holochain Developer and Rust Programmer working on a Persistent-World Mu* RPG founded on the great leaps and bounds of Holochain.
+- 💞️ I’m looking to collaborate on organization and bringing fruition to my thoughts.
+- 📫 Reach me in my discord @Link= "https://discord.gg/szJhAyNF"
